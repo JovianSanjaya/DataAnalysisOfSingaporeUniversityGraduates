@@ -1,0 +1,511 @@
+year,sex,course,intake,enrolment,graduates
+2005,MF,Accountancy,876,2561,706
+2005,F,Accountancy,530,1732,495
+2005,MF,"Architecture, Building & Real Estate",299,1310,180
+2005,F,"Architecture, Building & Real Estate",175,786,106
+2005,MF,Business & Administration,1545,5013,1256
+2005,F,Business & Administration,901,3098,898
+2005,MF,Dentistry,33,139,34
+2005,F,Dentistry,19,67,12
+2005,MF,Education,0,0,0
+2005,F,Education,0,0,0
+2005,MF,Engineering Sciences,4028,16599,3859
+2005,F,Engineering Sciences,1170,4868,1200
+2005,MF,Fine & Applied Arts,163,355,22
+2005,F,Fine & Applied Arts,103,212,11
+2005,MF,Health Sciences,176,433,85
+2005,F,Health Sciences,149,352,69
+2005,MF,Humanities & Social Sciences,2233,6743,1650
+2005,F,Humanities & Social Sciences,1644,4799,1249
+2005,MF,Information Technology,773,2356,562
+2005,F,Information Technology,280,765,200
+2005,MF,Law,220,844,187
+2005,F,Law,125,498,125
+2005,MF,Mass Communication,172,644,146
+2005,F,Mass Communication,130,507,110
+2005,MF,Medicine,233,1169,209
+2005,F,Medicine,103,479,86
+2005,MF,"Natural, Physical & Mathematical Sciences",1701,5389,1135
+2005,F,"Natural, Physical & Mathematical Sciences",1004,3416,769
+2005,MF,Services,56,108,0
+2005,F,Services,38,80,0
+2006,MF,Accountancy,934,2844,644
+2006,F,Accountancy,557,1819,468
+2006,MF,"Architecture, Building & Real Estate",379,1336,329
+2006,F,"Architecture, Building & Real Estate",226,810,193
+2006,MF,Business & Administration,1772,5490,1250
+2006,F,Business & Administration,1035,3297,818
+2006,MF,Dentistry,42,148,32
+2006,F,Dentistry,26,78,14
+2006,MF,Education,0,0,0
+2006,F,Education,0,0,0
+2006,MF,Engineering Sciences,4101,16663,3811
+2006,F,Engineering Sciences,1025,4694,1137
+2006,MF,Fine & Applied Arts,233,557,24
+2006,F,Fine & Applied Arts,137,334,13
+2006,MF,Health Sciences,240,583,81
+2006,F,Health Sciences,201,489,57
+2006,MF,Humanities & Social Sciences,2573,7532,1758
+2006,F,Humanities & Social Sciences,1813,5282,1298
+2006,MF,Information Technology,728,2505,540
+2006,F,Information Technology,185,796,139
+2006,MF,Law,238,872,204
+2006,F,Law,102,463,134
+2006,MF,Mass Communication,180,685,141
+2006,F,Mass Communication,153,555,108
+2006,MF,Medicine,251,1188,229
+2006,F,Medicine,119,503,94
+2006,MF,"Natural, Physical & Mathematical Sciences",1994,5899,1384
+2006,F,"Natural, Physical & Mathematical Sciences",1348,3755,955
+2006,MF,Services,68,177,0
+2006,F,Services,36,117,0
+2007,MF,Accountancy,1000,3074,834
+2007,F,Accountancy,625,1914,574
+2007,MF,"Architecture, Building & Real Estate",453,1479,288
+2007,F,"Architecture, Building & Real Estate",313,934,177
+2007,MF,Business & Administration,1733,5675,1384
+2007,F,Business & Administration,1069,3363,893
+2007,MF,Dentistry,42,154,36
+2007,F,Dentistry,26,89,15
+2007,MF,Education,0,0,0
+2007,F,Education,0,0,0
+2007,MF,Engineering Sciences,4064,16042,4366
+2007,F,Engineering Sciences,1192,4553,1258
+2007,MF,Fine & Applied Arts,242,711,69
+2007,F,Fine & Applied Arts,147,429,41
+2007,MF,Health Sciences,259,745,86
+2007,F,Health Sciences,207,617,67
+2007,MF,Humanities & Social Sciences,2812,8667,1607
+2007,F,Humanities & Social Sciences,2056,6176,1123
+2007,MF,Information Technology,776,2660,573
+2007,F,Information Technology,249,824,206
+2007,MF,Law,332,1004,207
+2007,F,Law,208,547,123
+2007,MF,Mass Communication,182,693,169
+2007,F,Mass Communication,136,546,141
+2007,MF,Medicine,250,1207,227
+2007,F,Medicine,116,536,83
+2007,MF,"Natural, Physical & Mathematical Sciences",2137,6605,1325
+2007,F,"Natural, Physical & Mathematical Sciences",1415,4232,869
+2007,MF,Services,71,246,0
+2007,F,Services,48,163,0
+2008,MF,Accountancy,1055,3139,831
+2008,F,Accountancy,638,1910,536
+2008,MF,"Architecture, Building & Real Estate",452,1530,368
+2008,F,"Architecture, Building & Real Estate",272,952,232
+2008,MF,Business & Administration,1536,5848,1462
+2008,F,Business & Administration,943,3423,959
+2008,MF,Dentistry,44,163,35
+2008,F,Dentistry,21,93,17
+2008,MF,Education,0,0,0
+2008,F,Education,0,0,0
+2008,MF,Engineering Sciences,3598,14368,3887
+2008,F,Engineering Sciences,1064,4102,1254
+2008,MF,Fine & Applied Arts,236,845,81
+2008,F,Fine & Applied Arts,129,503,50
+2008,MF,Health Sciences,247,888,87
+2008,F,Health Sciences,185,712,77
+2008,MF,Humanities & Social Sciences,2823,9609,1817
+2008,F,Humanities & Social Sciences,1971,6783,1312
+2008,MF,Information Technology,1033,3781,900
+2008,F,Information Technology,307,1021,275
+2008,MF,Law,356,1143,209
+2008,F,Law,221,649,115
+2008,MF,Mass Communication,169,688,164
+2008,F,Mass Communication,133,543,132
+2008,MF,Medicine,260,1236,227
+2008,F,Medicine,127,566,96
+2008,MF,"Natural, Physical & Mathematical Sciences",2261,7413,1347
+2008,F,"Natural, Physical & Mathematical Sciences",1333,4651,856
+2008,MF,Services,65,253,57
+2008,F,Services,36,157,43
+2009,MF,Accountancy,1142,3471,937
+2009,F,Accountancy,663,2059,595
+2009,MF,"Architecture, Building & Real Estate",434,1659,283
+2009,F,"Architecture, Building & Real Estate",254,1027,163
+2009,MF,Business & Administration,1519,5709,1482
+2009,F,Business & Administration,824,3270,855
+2009,MF,Dentistry,48,180,31
+2009,F,Dentistry,29,103,19
+2009,MF,Education,0,0,0
+2009,F,Education,0,0,0
+2009,MF,Engineering Sciences,4199,14522,3870
+2009,F,Engineering Sciences,1278,4218,1117
+2009,MF,Fine & Applied Arts,269,957,135
+2009,F,Fine & Applied Arts,148,548,88
+2009,MF,Health Sciences,295,1042,129
+2009,F,Health Sciences,204,800,107
+2009,MF,Humanities & Social Sciences,3082,10434,2179
+2009,F,Humanities & Social Sciences,2138,7272,1606
+2009,MF,Information Technology,991,3975,616
+2009,F,Information Technology,320,1132,175
+2009,MF,Law,383,1321,207
+2009,F,Law,186,711,118
+2009,MF,Mass Communication,168,692,164
+2009,F,Mass Communication,102,516,128
+2009,MF,Medicine,260,1278,219
+2009,F,Medicine,126,596,97
+2009,MF,"Natural, Physical & Mathematical Sciences",2413,8076,1646
+2009,F,"Natural, Physical & Mathematical Sciences",1382,4932,1040
+2009,MF,Services,61,263,49
+2009,F,Services,40,160,36
+2010,MF,Accountancy,1169,3645,933
+2010,F,Accountancy,689,2159,553
+2010,MF,"Architecture, Building & Real Estate",426,1786,263
+2010,F,"Architecture, Building & Real Estate",280,1117,173
+2010,MF,Business & Administration,1607,5763,1514
+2010,F,Business & Administration,901,3287,856
+2010,MF,Dentistry,48,184,41
+2010,F,Dentistry,31,108,25
+2010,MF,Education,0,0,0
+2010,F,Education,0,0,0
+2010,MF,Engineering Sciences,4080,15387,3786
+2010,F,Engineering Sciences,1144,4498,946
+2010,MF,Fine & Applied Arts,345,1080,205
+2010,F,Fine & Applied Arts,186,607,121
+2010,MF,Health Sciences,276,1064,235
+2010,F,Health Sciences,189,783,196
+2010,MF,Humanities & Social Sciences,2691,10743,2381
+2010,F,Humanities & Social Sciences,1807,7424,1645
+2010,MF,Information Technology,939,3355,631
+2010,F,Information Technology,276,1068,162
+2010,MF,Law,350,1423,227
+2010,F,Law,175,783,89
+2010,MF,Mass Communication,164,675,177
+2010,F,Mass Communication,122,490,147
+2010,MF,Medicine,260,1305,228
+2010,F,Medicine,121,620,94
+2010,MF,"Natural, Physical & Mathematical Sciences",2232,8361,1766
+2010,F,"Natural, Physical & Mathematical Sciences",1297,4949,1172
+2010,MF,Services,322,524,64
+2010,F,Services,236,363,35
+2011,MF,Accountancy,1100,3871,839
+2011,F,Accountancy,618,2244,507
+2011,MF,"Architecture, Building & Real Estate",475,1857,368
+2011,F,"Architecture, Building & Real Estate",315,1163,247
+2011,MF,Business & Administration,1637,5780,1577
+2011,F,Business & Administration,910,3237,944
+2011,MF,Dentistry,48,190,42
+2011,F,Dentistry,29,111,26
+2011,MF,Education,397,1752,406
+2011,F,Education,293,1301,303
+2011,MF,Engineering Sciences,4248,15624,3891
+2011,F,Engineering Sciences,1241,4598,1119
+2011,MF,Fine & Applied Arts,347,1179,216
+2011,F,Fine & Applied Arts,180,640,132
+2011,MF,Health Sciences,347,1139,255
+2011,F,Health Sciences,264,820,213
+2011,MF,Humanities & Social Sciences,2453,9689,2480
+2011,F,Humanities & Social Sciences,1660,6447,1772
+2011,MF,Information Technology,1057,3643,583
+2011,F,Information Technology,364,1178,195
+2011,MF,Law,364,1448,329
+2011,F,Law,172,742,208
+2011,MF,Mass Communication,174,673,174
+2011,F,Mass Communication,135,490,133
+2011,MF,Medicine,280,1328,255
+2011,F,Medicine,148,647,119
+2011,MF,"Natural, Physical & Mathematical Sciences",2252,7822,1836
+2011,F,"Natural, Physical & Mathematical Sciences",1335,4482,1217
+2011,MF,Services,387,827,74
+2011,F,Services,269,575,50
+2012,MF,Accountancy,1213,4001,1036
+2012,F,Accountancy,682,2316,589
+2012,MF,"Architecture, Building & Real Estate",395,1829,396
+2012,F,"Architecture, Building & Real Estate",216,1119,241
+2012,MF,Business & Administration,1732,6073,1397
+2012,F,Business & Administration,989,3368,825
+2012,MF,Dentistry,53,201,42
+2012,F,Dentistry,30,120,21
+2012,MF,Education,417,1538,614
+2012,F,Education,344,1130,503
+2012,MF,Engineering Sciences,4436,16185,3727
+2012,F,Engineering Sciences,1344,4785,1119
+2012,MF,Fine & Applied Arts,436,1347,257
+2012,F,Fine & Applied Arts,270,761,149
+2012,MF,Health Sciences,447,1293,279
+2012,F,Health Sciences,359,948,218
+2012,MF,Humanities & Social Sciences,2596,10087,2231
+2012,F,Humanities & Social Sciences,1758,6760,1494
+2012,MF,Information Technology,1028,3853,764
+2012,F,Information Technology,354,1236,280
+2012,MF,Law,374,1474,347
+2012,F,Law,191,717,207
+2012,MF,Mass Communication,180,678,170
+2012,F,Mass Communication,143,494,133
+2012,MF,Medicine,300,1374,252
+2012,F,Medicine,157,679,123
+2012,MF,"Natural, Physical & Mathematical Sciences",2244,7883,1911
+2012,F,"Natural, Physical & Mathematical Sciences",1382,4625,1074
+2012,MF,Services,348,1047,189
+2012,F,Services,221,702,135
+2013,MF,Accountancy,1185,4042,1087
+2013,F,Accountancy,679,2274,688
+2013,MF,"Architecture, Building & Real Estate",404,1883,401
+2013,F,"Architecture, Building & Real Estate",222,1123,258
+2013,MF,Business & Administration,1780,6188,1590
+2013,F,Business & Administration,977,3406,897
+2013,MF,Dentistry,54,207,48
+2013,F,Dentistry,31,124,27
+2013,MF,Education,314,1282,565
+2013,F,Education,246,975,402
+2013,MF,Engineering Sciences,4733,16187,4312
+2013,F,Engineering Sciences,1482,4893,1242
+2013,MF,Fine & Applied Arts,471,1492,290
+2013,F,Fine & Applied Arts,271,864,152
+2013,MF,Health Sciences,541,1441,391
+2013,F,Health Sciences,404,1054,296
+2013,MF,Humanities & Social Sciences,3186,10645,2584
+2013,F,Humanities & Social Sciences,2132,7095,1766
+2013,MF,Information Technology,1086,4058,824
+2013,F,Information Technology,351,1321,251
+2013,MF,Law,403,1491,368
+2013,F,Law,208,736,179
+2013,MF,Mass Communication,186,702,162
+2013,F,Mass Communication,135,529,100
+2013,MF,Medicine,354,1469,258
+2013,F,Medicine,189,744,124
+2013,MF,"Natural, Physical & Mathematical Sciences",2237,7855,2127
+2013,F,"Natural, Physical & Mathematical Sciences",1430,4715,1257
+2013,MF,Services,317,922,481
+2013,F,Services,178,551,345
+2014,MF,Accountancy,1515,4368,1122
+2014,F,Accountancy,860,2456,649
+2014,MF,"Architecture, Building & Real Estate",470,1990,404
+2014,F,"Architecture, Building & Real Estate",314,1213,258
+2014,MF,Business & Administration,1902,6577,1477
+2014,F,Business & Administration,1065,3597,846
+2014,MF,Dentistry,54,216,45
+2014,F,Dentistry,38,132,30
+2014,MF,Education,301,1065,508
+2014,F,Education,233,813,388
+2014,MF,Engineering Sciences,4938,16606,4221
+2014,F,Engineering Sciences,1441,5050,1174
+2014,MF,Fine & Applied Arts,491,1578,394
+2014,F,Fine & Applied Arts,304,937,229
+2014,MF,Health Sciences,544,1498,433
+2014,F,Health Sciences,379,1076,309
+2014,MF,Humanities & Social Sciences,3129,11291,2422
+2014,F,Humanities & Social Sciences,2107,7535,1619
+2014,MF,Information Technology,1166,4152,997
+2014,F,Information Technology,343,1343,289
+2014,MF,Law,397,1514,356
+2014,F,Law,170,715,176
+2014,MF,Mass Communication,185,729,158
+2014,F,Mass Communication,139,555,114
+2014,MF,Medicine,379,1585,261
+2014,F,Medicine,182,801,127
+2014,MF,"Natural, Physical & Mathematical Sciences",2276,8145,1889
+2014,F,"Natural, Physical & Mathematical Sciences",1357,4922,1103
+2014,MF,Services,123,679,354
+2014,F,Services,69,393,219
+2015,MF,Accountancy,1470,4723,1036
+2015,F,Accountancy,830,2684,556
+2015,MF,"Architecture, Building & Real Estate",419,1973,539
+2015,F,"Architecture, Building & Real Estate",262,1189,351
+2015,MF,Business & Administration,2120,7138,1619
+2015,F,Business & Administration,1272,4027,848
+2015,MF,Dentistry,54,219,51
+2015,F,Dentistry,34,134,32
+2015,MF,Education,294,955,401
+2015,F,Education,247,751,305
+2015,MF,Engineering Sciences,4934,16677,4374
+2015,F,Engineering Sciences,1429,4970,1296
+2015,MF,Fine & Applied Arts,466,1599,420
+2015,F,Fine & Applied Arts,244,934,233
+2015,MF,Health Sciences,569,1567,481
+2015,F,Health Sciences,417,1126,353
+2015,MF,Humanities & Social Sciences,3191,11915,2193
+2015,F,Humanities & Social Sciences,2158,8054,1450
+2015,MF,Information Technology,1247,4541,1066
+2015,F,Information Technology,389,1492,377
+2015,MF,Law,405,1550,355
+2015,F,Law,171,706,168
+2015,MF,Mass Communication,221,776,172
+2015,F,Mass Communication,181,602,130
+2015,MF,Medicine,390,1719,252
+2015,F,Medicine,176,859,115
+2015,MF,"Natural, Physical & Mathematical Sciences",2147,8226,1935
+2015,F,"Natural, Physical & Mathematical Sciences",1288,4989,1145
+2015,MF,Services,199,725,342
+2015,F,Services,94,373,188
+2016,MF,Accountancy,1521,5090,1103
+2016,F,Accountancy,912,2909,664
+2016,MF,"Architecture, Building & Real Estate",419,1980,459
+2016,F,"Architecture, Building & Real Estate",252,1205,274
+2016,MF,Business & Administration,2196,7514,1720
+2016,F,Business & Administration,1237,4230,969
+2016,MF,Dentistry,54,220,53
+2016,F,Dentistry,39,145,28
+2016,MF,Education,217,743,406
+2016,F,Education,172,577,327
+2016,MF,Engineering Sciences,4997,16975,4283
+2016,F,Engineering Sciences,1333,4859,1267
+2016,MF,Fine & Applied Arts,458,1628,432
+2016,F,Fine & Applied Arts,297,958,259
+2016,MF,Health Sciences,798,1860,480
+2016,F,Health Sciences,593,1335,368
+2016,MF,Humanities & Social Sciences,3219,12495,2563
+2016,F,Humanities & Social Sciences,2205,8449,1760
+2016,MF,Information Technology,1379,4810,1051
+2016,F,Information Technology,398,1499,381
+2016,MF,Law,399,1593,351
+2016,F,Law,210,740,173
+2016,MF,Mass Communication,190,774,188
+2016,F,Mass Communication,148,596,153
+2016,MF,Medicine,410,1845,278
+2016,F,Medicine,204,912,147
+2016,MF,"Natural, Physical & Mathematical Sciences",2094,8267,1950
+2016,F,"Natural, Physical & Mathematical Sciences",1240,4967,1195
+2016,MF,Services,201,737,179
+2016,F,Services,110,382,95
+2017,MF,Accountancy,1508,5226,1278
+2017,F,Accountancy,834,2963,725
+2017,MF,"Architecture, Building & Real Estate",410,2015,433
+2017,F,"Architecture, Building & Real Estate",219,1222,238
+2017,MF,Business & Administration,2393,8165,1691
+2017,F,Business & Administration,1405,4665,936
+2017,MF,Dentistry,54,217,56
+2017,F,Dentistry,30,141,33
+2017,MF,Education,170,627,260
+2017,F,Education,150,502,206
+2017,MF,Engineering Sciences,5255,17169,4475
+2017,F,Engineering Sciences,1474,4770,1343
+2017,MF,Fine & Applied Arts,464,1629,424
+2017,F,Fine & Applied Arts,276,957,257
+2017,MF,Health Sciences,962,2244,552
+2017,F,Health Sciences,703,1611,410
+2017,MF,Humanities & Social Sciences,3173,12660,2908
+2017,F,Humanities & Social Sciences,2068,8475,1963
+2017,MF,Information Technology,1579,5360,977
+2017,F,Information Technology,448,1599,330
+2017,MF,Law,391,1588,375
+2017,F,Law,201,741,188
+2017,MF,Mass Communication,189,781,176
+2017,F,Mass Communication,135,599,128
+2017,MF,Medicine,423,1962,301
+2017,F,Medicine,194,946,156
+2017,MF,"Natural, Physical & Mathematical Sciences",1495,7826,2038
+2017,F,"Natural, Physical & Mathematical Sciences",815,4544,1308
+2017,MF,Services,202,712,216
+2017,F,Services,121,377,117
+2018,MF,Accountancy,1421,5219,1299
+2018,F,Accountancy,731,2898,720
+2018,MF,"Architecture, Building & Real Estate",458,1993,517
+2018,F,"Architecture, Building & Real Estate",280,1190,343
+2018,MF,Business & Administration,2785,9018,1884
+2018,F,Business & Administration,1701,5277,1047
+2018,MF,Dentistry,60,224,53
+2018,F,Dentistry,33,135,39
+2018,MF,Education,220,549,283
+2018,F,Education,185,449,226
+2018,MF,Engineering Sciences,5213,17656,4380
+2018,F,Engineering Sciences,1484,4909,1226
+2018,MF,Fine & Applied Arts,410,1607,455
+2018,F,Fine & Applied Arts,247,945,275
+2018,MF,Health Sciences,1001,2678,535
+2018,F,Health Sciences,728,1927,385
+2018,MF,Humanities & Social Sciences,3368,12973,2920
+2018,F,Humanities & Social Sciences,2327,8753,1975
+2018,MF,Information Technology,2039,6143,1244
+2018,F,Information Technology,685,1905,373
+2018,MF,Law,480,1708,403
+2018,F,Law,226,818,165
+2018,MF,Mass Communication,188,778,188
+2018,F,Mass Communication,146,600,142
+2018,MF,Medicine,437,2045,355
+2018,F,Medicine,208,966,189
+2018,MF,"Natural, Physical & Mathematical Sciences",1739,7361,2110
+2018,F,"Natural, Physical & Mathematical Sciences",916,4136,1271
+2018,MF,Services,222,738,197
+2018,F,Services,104,385,99
+2019,MF,Accountancy,1433,5128,1418
+2019,MF,"Architecture, Building & Real Estate",492,2020,492
+2019,MF,Business & Administration,3110,10028,2025
+2019,MF,Dentistry,60,232,52
+2019,MF,Education,190,606,135
+2019,MF,Engineering Sciences,5101,18132,4439
+2019,MF,Fine & Applied Arts,423,1577,423
+2019,MF,Health Sciences,1045,3107,584
+2019,MF,Humanities & Social Sciences,3311,13192,3030
+2019,MF,Information Technology,2520,7386,1186
+2019,MF,Law,465,1774,372
+2019,MF,Mass Communication,168,725,216
+2019,MF,Medicine,430,2095,375
+2019,MF,"Natural, Physical & Mathematical Sciences",1747,7039,1987
+2019,MF,Services,218,756,177
+2019,F,Accountancy,780,2801,830
+2019,F,"Architecture, Building & Real Estate",288,1173,310
+2019,F,Business & Administration,1859,5894,1178
+2019,F,Dentistry,39,141,33
+2019,F,Education,156,500,102
+2019,F,Engineering Sciences,1473,5106,1207
+2019,F,Fine & Applied Arts,249,940,242
+2019,F,Health Sciences,784,2255,430
+2019,F,Humanities & Social Sciences,2299,8965,2052
+2019,F,Information Technology,874,2374,383
+2019,F,Law,215,862,155
+2019,F,Mass Communication,144,564,175
+2019,F,Medicine,194,978,181
+2019,F,"Natural, Physical & Mathematical Sciences",1023,3904,1196
+2019,F,Services,102,393,82
+2020,MF,Accountancy,1368,4982,1411
+2020,MF,"Architecture, Building & Real Estate",483,2023,426
+2020,MF,Business & Administration,3378,11275,2105
+2020,MF,Dentistry,72,253,51
+2020,MF,Education,184,690,145
+2020,MF,Engineering Sciences,5225,18050,4621
+2020,MF,Fine & Applied Arts,384,1517,429
+2020,MF,Health Sciences,1018,3347,724
+2020,MF,Humanities & Social Sciences,2930,12892,3147
+2020,MF,Information Technology,2863,8811,1367
+2020,MF,Law,463,1823,394
+2020,MF,Mass Communication,170,714,181
+2020,MF,Medicine,477,2178,386
+2020,MF,Natural & Mathematical Sciences,1679,6713,1928
+2020,MF,Services,282,814,219
+2020,F,Accountancy,812,2759,812
+2020,F,"Architecture, Building & Real Estate",304,1183,258
+2020,F,Business & Administration,2039,6684,1209
+2020,F,Dentistry,59,165,35
+2020,F,Education,153,577,115
+2020,F,Engineering Sciences,1503,5149,1246
+2020,F,Fine & Applied Arts,251,911,272
+2020,F,Health Sciences,761,2455,522
+2020,F,Humanities & Social Sciences,2001,8783,2125
+2020,F,Information Technology,846,2797,397
+2020,F,Law,259,907,204
+2020,F,Mass Communication,142,566,142
+2020,F,Medicine,224,1020,178
+2020,F,Natural & Mathematical Sciences,891,3624,1127
+2020,F,Services,139,412,112
+2021,MF,Accountancy,1356,4859,1355
+2021,F,Accountancy,757,2726,732
+2021,MF,"Architecture, Building & Real Estate",430,1964,458
+2021,F,"Architecture, Building & Real Estate",255,1171,247
+2021,MF,Business & Administration,3483,12228,2378
+2021,F,Business & Administration,2046,7274,1357
+2021,MF,Dentistry,81,278,58
+2021,F,Dentistry,65,199,33
+2021,MF,Education,196,695,184
+2021,F,Education,152,561,160
+2021,MF,Engineering Sciences,5116,18366,4534
+2021,F,Engineering Sciences,1397,5254,1202
+2021,MF,Fine & Applied Arts,376,1414,429
+2021,F,Fine & Applied Arts,251,870,255
+2021,MF,Health Sciences,1093,3606,777
+2021,F,Health Sciences,817,2642,576
+2021,MF,Humanities & Social Sciences,2727,12506,2998
+2021,F,Humanities & Social Sciences,1789,8506,1984
+2021,MF,Information Technology,2952,10219,1418
+2021,F,Information Technology,705,3027,426
+2021,MF,Law,485,1875,415
+2021,F,Law,230,909,216
+2021,MF,Mass Communication,176,708,188
+2021,F,Mass Communication,140,574,136
+2021,MF,Medicine,471,2251,397
+2021,F,Medicine,227,1052,196
+2021,MF,Natural & Mathematical Sciences,2050,7071,1620
+2021,F,Natural & Mathematical Sciences,1193,3912,874
+2021,MF,Services,315,905,229
+2021,F,Services,163,451,131
