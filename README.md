@@ -1,4 +1,4 @@
-# Data Analysis of SIngapore's UNiversity Graduates
+# Data Analysis of SIngapore's University Graduates
 ![image](https://github.com/xkvnxx/Data-Analysis-of-Singapore-s-University-Graduates/assets/132749552/bae0d7f9-0f36-439e-88a3-265ac40d4b54)
 ![image](https://github.com/xkvnxx/Data-Analysis-of-Singapore-s-University-Graduates/assets/132749552/485b7a73-e2ab-42d4-a66c-b77b5b486f26)
 ![image](https://github.com/xkvnxx/Data-Analysis-of-Singapore-s-University-Graduates/assets/132749552/a1d3b05c-ac74-4d9c-a229-d0fcc14ac756)
